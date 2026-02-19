@@ -159,11 +159,11 @@ This project is open-source and available under the [MIT License](LICENSE).
 
 ---
 
-## 👤 Mentor
+## 👤 Author
 
-**Your Name**
-- GitHub: [@your-username](https://github.com/programmer-sahil)
-- LinkedIn: [your-linkedin](https://linkedin.com/in/programmer-sahil)
+**My Name**
+- GitHub: (https://github.com/dipikadas6979/Ardent_AI_ML_Training/blob/main/README.m)
+- LinkedIn: (https://www.linkedin.com/in/dipika-das-83895a397/)
 
 ---
 
