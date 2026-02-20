@@ -1,3 +1,6 @@
+![me](https://github.com/user-attachments/assets/29be9bec-382d-4c76-8c85-6c233a59cd09)
+
+
 # 😊 Real-Time Facial Emotion Detection
 
 <div align="center">
