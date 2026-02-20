@@ -1,4 +1,5 @@
-![me](https://github.com/user-attachments/assets/29be9bec-382d-4c76-8c85-6c233a59cd09)
+<img width="456" height="602" alt="Screenshot (1)" src="https://github.com/user-attachments/assets/9a5b34fb-a799-44c8-8789-73786933b61a" />
+
 
 
 # 😊 Real-Time Facial Emotion Detection
